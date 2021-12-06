@@ -23,8 +23,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Donation
 If u wanna buy me a coffee or something else, you can do it in several ways:
 
-- BTC: `bc1q34s0m57jncdg3wm2perlmeqx6sl55r576dhwt2`
-- ETH: `0xB207030b74C673Ff2B1008A9C59EDC483e34aEa5`
+- BTC: `1GFEEWZwM4xLsvjyC4DZhuHS3BT6r5uwPj`
+- ETH: `0x8477951edc39d0936803d9bec82963e88da86fe4`
 - PayPal: [Click](https://www.paypal.com/donate/?hosted_button_id=DCB42BR7KBRN6)
 
 ## License
