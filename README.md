@@ -9,7 +9,9 @@ If you need some help with this, let me know, I try to make some detailed instru
 
 ## Configs
   - pve.conf — hardened and secured Nginx configuration for your ProxmoxVE WebUI.
-    > Tested on version 6.3-3
+    > Tested on version 7.1-7 and 6.3-3
+  - default-server.conf - Miniature config that disables direct access to a web server by ip address
+    > Returns 444, but you can change it to a 404 or whatever.
 
 ## Subconfig
 Some regularly used configuration parts, usually included in my configs.
