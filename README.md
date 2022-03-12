@@ -14,6 +14,8 @@ If you need some help with this, let me know, I try to make some detailed instru
     > Tested on version 6.5.55
   - zabbix.conf - hardened and secured Nginx configuration for your Zabbix Web.
     > Tested on version 6.0 and 5.0
+  - nc.conf — hardened and secured Nginx configuration for your NextCloud.
+    > Tested on version 23.0.2
   - default-server.conf - Miniature config that disables direct access to a web server by ip address
     > Returns 444, but you can change it to a 404 or whatever.
 
