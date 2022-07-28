@@ -9,11 +9,11 @@ If you need some help with this, let me know, I try to make some detailed instru
 
 ## Configs
   - pve.conf — hardened and secured Nginx configuration for your ProxmoxVE WebUI.
-    > Tested on version 7.1-7 and 6.3-3
+    > Tested on version 7.1-7, 6.3-3
   - unifi.conf - hardened and secured Nginx configuration for your Unifi Cloud Controller.
     > Tested on version 6.5.55
   - zabbix.conf - hardened and secured Nginx configuration for your Zabbix Web.
-    > Tested on version 6.0 and 5.0
+    > Tested on version 6.0, 5.0
   - nc.conf — hardened and secured Nginx configuration for your NextCloud.
     > Tested on version 23.0.2
   - default-server.conf - Miniature config that disables direct access to a web server by ip address
@@ -31,6 +31,7 @@ If u wanna buy me a coffee or something else, you can do it in several ways:
 
 - BTC: `1GFEEWZwM4xLsvjyC4DZhuHS3BT6r5uwPj`
 - ETH: `0x8477951edc39d0936803d9bec82963e88da86fe4`
+- USDT: `TA26TMKeo8FvKG489Ed1NjkH2WpwZ7uCVg`
 - PayPal: [Click](https://www.paypal.com/donate/?hosted_button_id=DCB42BR7KBRN6)
 
 ## License
